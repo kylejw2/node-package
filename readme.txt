@@ -1,0 +1,4 @@
+1. What are the differences between NPM modules and Node packages?
+    NPM modules aren't required to have a package.json file so not all modules are Node packages because Node packages are required to have a package.json file. In terms of what constitutes a package or a module, packages are much broader and can be something such as a gzipped tarball or a git URL which must include a package.json file.
+2. If you create a new Node module, how do you share that code with the community?
+    I can share my new Node module with the community in multiple ways. First, I can publish the code on my GitHub account. Second, I can publish my package to the npm website for others to directly access.
